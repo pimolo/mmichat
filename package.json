@@ -1,0 +1,22 @@
+{
+  "name": "mmichat",
+  "version": "0.0.0",
+  "description": "Le chat des MMI de l'IUT de Troyes",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pimolo/mmichat.git"
+  },
+  "author": "Rémi Andrieux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pimolo/mmichat/issues"
+  },
+  "homepage": "https://github.com/pimolo/mmichat",
+  "dependencies": {
+    "firebase": "^1.0.21"
+  }
+}
